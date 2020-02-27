@@ -1,0 +1,9 @@
+
+1. Explain what the terminal is in your own words
+	The terminal is a way of moving and directing files on your local computer
+
+2. What is the major difference between Git and Gitbuhub?
+	Git is for creating and editing files on a local device, and Github is for sharing commits of those files for others to see and edit before changing the master.
+
+3. Why do we use Github?
+	We use Github to share our work and edit in groups, as well as for submitting assignments.
